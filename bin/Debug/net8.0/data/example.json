@@ -1,0 +1,18 @@
+// Data/produtos.json
+[
+  {
+    "Id": 1,
+    "Nome": "ProdutoA",
+    "Preco": 10.99
+  },
+  {
+    "Id": 2,
+    "Nome": "ProdutoB",
+    "Preco": 20.99
+  },
+  {
+    "Id": 3,
+    "Nome": "ProdutoC",
+    "Preco": 30.99
+  }
+]
